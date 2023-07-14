@@ -1,0 +1,48 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "MAXX-COFFEE-SUMATERA-LINTONG.jpg",
+            "nama": "Sumatera Lintong",
+            "size": "250 Gram",
+            "harga": "87.000",
+            "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-SUMATERA-LINTONG"
+        },
+        {
+            "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-ACEH-GAYO.jpg",
+            "nama": "Aceh Gayo",
+            "size": "250 Gram",
+            "harga": "87.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-JAVA-CIWIDEY.jpg",
+            "nama": "Java Ciwidey",
+            "size": "250 Gram",
+            "harga": "87.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}
