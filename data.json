@@ -2,24 +2,31 @@
     "arabica": [
         {
             "foto": "images/produk/product_capuchino.jpg",
-            "nama": "Cappuccino Arabica",
-            "size": "500 Gram",
-            "harga": "200.000",
-            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+            "nama": "Vanilla Latte",
+            "size": "500 ml",
+            "harga": "45.000",
+            "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-VANILLA-LATTE.JPG"
         },
         {
             "foto": "images/produk/product_espresso.jpg",
-            "nama": "Pahit Arabica",
-            "size": "100 Gram",
-            "harga": "100.000",
-            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+            "nama": "Cold Brew Black",
+            "size": "500 ml",
+            "harga": "46.000",
+            "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-COLD-BREW-BLACK.jpg"
         },
         {
             "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Arabica",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+            "nama": "Signature Mocha Frappe",
+            "size": "500 ml",
+            "harga": "56.000",
+            "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-CHOCOLATE-CHIP-CREAM-FRAPPE.jpg"
+        }
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Brewed Hibiscus Tea",
+            "size": "500 ml",
+            "harga": "56.000",
+            "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-BREWED-HIBISCUS-TEA.jpg"
         }
     ],
     "robusta": [
