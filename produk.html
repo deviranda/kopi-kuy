@@ -223,10 +223,9 @@
                 var data_kopi = data[pilihan]
                 console.log(data_kopi)
                 data_kopi.forEach(kopi => {
-                    template += `<div class="col-12 col-md-6 col-lg-3">
-                        <div class="card mt-4 mx-auto text-center">
-                            <img src="${kopi.foto}" 
-                            class="card-img-top" alt="...">
+                    template += `<div class="col mb-4">
+                        <div class="card">
+                            <img src="${kopi.foto}" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">${kopi.nama}</h5>
                                 <div class="row keterangan my-4">
