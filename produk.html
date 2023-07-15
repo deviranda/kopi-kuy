@@ -219,7 +219,7 @@
 
             var template = ""
 
-            $.get(json2).then(function (data) {
+            $.getJSON(sumber2).then(function (data) {
                 var data_kopi = data[pilihan]
                 console.log(data_kopi)
                 data_kopi.forEach(kopi => {
