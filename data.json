@@ -20,7 +20,7 @@
             "size": "500 ml",
             "harga": "56.000",
             "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-CHOCOLATE-CHIP-CREAM-FRAPPE.jpg"
-        }
+        },
         {
             "foto": "images/produk/product_latte.jpg",
             "nama": "Brewed Hibiscus Tea",
@@ -29,7 +29,8 @@
             "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-BREWED-HIBISCUS-TEA.jpg"
         }
     ],
-    "robusta": [
+
+     "Robusta": [
         {
             "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-SUMATERA-LINTONG.jpg",
             "nama": "Sumatera Lintong",
