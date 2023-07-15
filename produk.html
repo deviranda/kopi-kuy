@@ -78,7 +78,7 @@
 
             <div class="form-floating col-md-4 m-auto">
                 <select class="form-select" id="select_kopi">
-                    <option selected disabled>-</option>
+                    <option selected disabled>pilih jenis kopi</option>
                     <option value="arabica">Arabica</option>
                     <option value="robusta">Robusta</option>
                 </select>
@@ -213,8 +213,9 @@
         var sumber2 = "data.json"
 
         select_kopi.onchange = function () {
-            var dipilih = select_kopi.value
-            console.log(dipilih)
+            var pilihan= select_kopi.value
+            console.log(pilihan)
+            alert(pilihan)
 
             var template = ""
 
