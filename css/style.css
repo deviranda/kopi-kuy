@@ -59,7 +59,7 @@ img {
 
 nav {
    /* background-color mengatur warna latar belakang */
-   background-color: rgb(127, 86, 238);
+   background-color: #4c6edd;
 
    /* penulisan 2 background-color seperti ini akan mengabaikan penulisan sebelumnya */
    background-color: #4c6edd;
@@ -424,8 +424,8 @@ terkait layout pada CSS untuk dapat memahami secara penuh
 footer {
    background-color: #4c6edd;
    padding-top: 15px;
-   padding-bottom: 5px;
-   color: #fff;
+   padding-bottom: 15px;
+   color: #4c6edd;
    padding-right: 40px;
    padding-left: 40px;
 }
