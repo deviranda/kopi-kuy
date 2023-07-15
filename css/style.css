@@ -139,8 +139,8 @@ section {
 
 .chat {
    margin-right: 30px;
-   background-color: rgb(0, 0, 0);
-   color: rgb(127, 86, 238);
+   background-color: rgb(255, 255, 255);
+   color: rgb(255, 102, 0);
    padding-top: 5px;
    padding-right: 15px;
    padding-bottom: 5px;
@@ -388,7 +388,7 @@ terkait layout pada CSS untuk dapat memahami secara penuh
    width: 30%;
    padding: 35px 50px;
    box-shadow: 0px 0px 12px -10px #000;
-   background-color: rgb(127, 86, 238);
+   background-color: rgb(255, 255, 255);
 }
 
 .profile {
