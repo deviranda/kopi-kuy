@@ -18,7 +18,14 @@
         }
 
         .bg-cokelat {
-            background-color: rgb(94, 40, 7);
+            background-color: hsl(226, 68%, 59%);
+        }
+        .card img {
+            height:250px;
+            object-fit: cover;
+        }
+        .card h5.card-title{
+            height:50px;
         }
     </style>
     <script src="js/jquery-3.6.3.min.js"></script>
@@ -55,7 +62,7 @@
                         <a class="nav-link" href="index.html#contact-us">Contact Us</a>
                     </li>
                 </ul>
-                <a class="btn btn-outline-light" href="https://wa.me/6281290465033" target="_blank">Chat <i
+                <a class="btn btn-outline-light" href="https://wa.me/6281519351465" target="_blank">Chat <i
                         class="bi bi-whatsapp"></i></a>
 
             </div>
@@ -93,7 +100,10 @@
                                     45.000
                                 </div>
                             </div>
-                            <a href="#" class="btn btn-success w-100">Beli</a>
+                            <a href="#" class="btn btn-success w-100">
+                                <i class="bi bi-cart4"></i>Beli
+
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -208,25 +218,28 @@
 
             var template = ""
 
-            $.getJSON(sumber2).then(function (data) {
-                var data_kopi = data[dipilih]
+            $.get(json2).then(function (data) {
+                var data_kopi = data[pilihan]
                 console.log(data_kopi)
-
-                data_kopi.forEach(item => {
-                    template += `<div class="col mb-4">
-                        <div class="card">
-                            <img src="${item.foto}" class="card-img-top" alt="...">
+                data_kopi.forEach(kopi => {
+                    template += `<div class="col-12 col-md-6 col-lg-3">
+                        <div class="card mt-4 mx-auto text-center">
+                            <img src="${kopi.foto}" 
+                            class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title">${item.nama}</h5>
+                                <h5 class="card-title">${kopi.nama}</h5>
                                 <div class="row keterangan my-4">
                                     <div class="col">
-                                        ${item.size}
+                                        ${kopi.size}
                                     </div>
-                                    <div class="col">
-                                        ${item.harga}
+                                    <div class="col text primary fw-Bold">
+                                        ${kopi.harga}
                                     </div>
                                 </div>
-                                <a href="${item.link}" class="btn btn-success w-100">Beli</a>
+                                <a href="${kopi.link}" class="btn btn-success w-100">
+                                    <i class="bi bi-cart-check"></i>
+                                    Beli
+                                    </a>
                             </div>
                         </div>
                     </div>`
