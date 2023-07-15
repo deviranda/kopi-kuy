@@ -1,14 +1,14 @@
 {
     "arabica": [
         {
-            "foto": "images/produk/product_capuchino.jpg",
+            "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-VANILLA-LATTE.JPG",
             "nama": "Vanilla Latte",
             "size": "500 ml",
             "harga": "45.000",
             "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-VANILLA-LATTE.JPG"
         },
         {
-            "foto": "images/produk/product_espresso.jpg",
+            "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-COLD-BREW-BLACK.jpg",
             "nama": "Cold Brew Black",
             "size": "500 ml",
             "harga": "46.000",
@@ -22,7 +22,7 @@
             "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-CHOCOLATE-CHIP-CREAM-FRAPPE.jpg"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
+            "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-BREWED-HIBISCUS-TEA.jpg",
             "nama": "Brewed Hibiscus Tea",
             "size": "500 ml",
             "harga": "56.000",
@@ -34,6 +34,27 @@
             "size": "500 ml",
             "harga": "54.000",
             "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-GREEN-TEA-LATTE.jpg"
+        },
+        {
+            "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-ESPRESSO.jpg",
+            "nama": "espresso",
+            "size": "500 ml",
+            "harga": "52.000",
+            "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-ESPRESSO.jpg"
+        },
+        {
+            "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-CAFFE-LATTE.jpg",
+            "nama": "Caffe Latte",
+            "size": "500 ml",
+            "harga": "52.000",
+            "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-CAFFE-LATTE.jpg"
+        },
+        {
+            "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-CAPPUCINO.jpg",
+            "nama": "Cappuchino",
+            "size": "500 ml",
+            "harga": "54.000",
+            "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-CAPPUCINO.jpg"
         }
     ],
      "robusta": [
@@ -41,22 +62,37 @@
             "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-SUMATERA-LINTONG.jpg",
             "nama": "Sumatera Lintong",
             "size": "250 Gram",
-            "harga": "87.000",
+            "harga": "44.000",
             "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-SUMATERA-LINTONG.jpg"
         },
         {
             "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-ACEH-GAYO.jpg",
             "nama": "Aceh Gayo",
             "size": "250 Gram",
-            "harga": "87.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+            "harga": "44.000",
+            "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-ACEH-GAYO.jpg"
         },
         {
             "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-JAVA-CIWIDEY.jpg",
             "nama": "Java Ciwidey",
             "size": "250 Gram",
-            "harga": "87.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+            "harga": "44.000",
+            "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-JAVA-CIWIDEY.jpg"
+        },
+        {
+            "foto": "https://s3.bukalapak.com/img/3229280739/large/data.png",
+            "nama": "Flores",
+            "size": "250 Gram",
+            "harga": "44.000",
+            "link": "https://s3.bukalapak.com/img/3229280739/large/data.png"
+        },
+        {
+            "foto": "https://www.kopi.ayogoweb.com/public/ilustrasi_layanan/gbrbfc5a5c781cb538884a90c496b2eaa64.jpg",
+            "nama": "Toraja",
+            "size": "250 Gram",
+            "harga": "44.000",
+            "link": "https://www.kopi.ayogoweb.com/public/ilustrasi_layanan/gbrbfc5a5c781cb538884a90c496b2eaa64.jpg"
         }
+
     ]
 }
