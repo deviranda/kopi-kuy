@@ -28,8 +28,14 @@
             "harga": "56.000",
             "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-BREWED-HIBISCUS-TEA.jpg"
         }
+        {
+            "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-GREEN-TEA-LATTE.jpg",
+            "nama": "Green Tea Latte",
+            "size": "500 ml",
+            "harga": "54.000",
+            "link": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-GREEN-TEA-LATTE.jpg"
+        }
     ],
-
      "Robusta": [
         {
             "foto": "https://www.maxx-coffee.com/assets/img/product/MAXX-COFFEE-SUMATERA-LINTONG.jpg",
